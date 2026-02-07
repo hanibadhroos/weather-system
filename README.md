@@ -1,16 +1,25 @@
-# React + Vite
+# Weather system
+weather system for enter and select your region then get the data by API and display it for user.
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##Steps
+Step 1:
+<img width="1366" height="638" alt="step 1" src="https://github.com/user-attachments/assets/d641bc31-f0cb-4d47-a77e-c0fd652d9887" />
 
-Currently, two official plugins are available:
+Step 2:
+<img width="1366" height="643" alt="step 2" src="https://github.com/user-attachments/assets/492567b6-96b6-4ddc-b3b0-57a12ddc26d0" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Step 3:
+<img width="1366" height="640" alt="step 3" src="https://github.com/user-attachments/assets/6997f4b4-4e61-4155-ba3b-c1756fdf427b" />
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ⚙️ Installation
+git cloneh ttps://github.com/hanibadhroos/weather-system.git
 
-## Expanding the ESLint configuration
+npm install
+npm run dev
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+
