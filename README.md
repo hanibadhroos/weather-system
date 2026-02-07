@@ -21,6 +21,7 @@ Step 3:
 git cloneh ttps://github.com/hanibadhroos/weather-system.git
 
 npm install
+<br/>
 npm run dev
 
 
