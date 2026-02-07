@@ -18,7 +18,7 @@ Step 3:
 ---
 
 ## ⚙️ Installation
-git cloneh ttps://github.com/hanibadhroos/weather-system.git
+git clone https://github.com/hanibadhroos/weather-system.git
 
 npm install
 <br/>
